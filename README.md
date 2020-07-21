@@ -1,2 +1,0 @@
-# goTicketInfo.github.io
-# mainPage
